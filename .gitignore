@@ -194,5 +194,6 @@ $RECYCLE.BIN/
 
 # Custom
 *.txt
+./exercises
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,node
